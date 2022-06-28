@@ -1,0 +1,13 @@
+.div-1, .div-2{
+    background-color: red;
+}
+
+.imagengaleria{
+    width: 300px;
+}
+
+.galeria{
+    display: flexbox;
+    flex-wrap: wrap;
+    gap: 10px;
+}
